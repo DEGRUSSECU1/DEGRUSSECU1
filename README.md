@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Russo</h1>
-<h3 align="center">A Full Stack software developer School of Code boot camper aspiring software developer</h3>
+<h3 align="center">Aspiring software developer studying at the School of Code </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degrussecu1&label=Profile%20views&color=0e75b6&style=flat" alt="degrussecu1" /> </p>
 
