@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degrussecu1&label=Profile%20views&color=0e75b6&style=flat" alt="degrussecu1" /> </p>
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m currently learning everyday the tools i was intruduced to at the School of Code, to become at Front End Developer.
 
 - 👨‍💻 All of my projects are available at [https://degrussecu1.github.io/webpage/](https://degrussecu1.github.io/webpage/)
 
