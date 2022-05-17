@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everyday the tools i was intruduced to at the School of Code, to become at Front End Developer.
 
-- 👨‍💻 All of my projects are available at [https://degrussecu1.github.io/my-portfolio/](https://degrussecu1.github.io/webpage/)
+- 👨‍💻 All of my projects are available at [https://degrussecu1.github.io/my-portfolio/](https://degrussecu1.github.io/my-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
