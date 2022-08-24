@@ -27,28 +27,28 @@
 
 <div>
 <h1> Reloved</h1>
-<a href="https://reloved.netlify.app/"> <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project School Of Code" width="400" height="220"/></a>
+<a href="https://reloved.netlify.app/"> <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project School Of Code" width="400" height="240"/></a>
 </div>
 
 <div>
 <h1> Edouard Manet, Tribute Page</h1>
-<a href="https://degrussecu1.github.io/Manet-Tribute-page/" > <img src="https://i.imgur.com/TDBzOZ1.png" title="Edouard Manet"  alt="Edouard Manet" width="400" height="220"/></a>
+<a href="https://degrussecu1.github.io/Manet-Tribute-page/" > <img src="https://i.imgur.com/TDBzOZ1.png" title="Edouard Manet"  alt="Edouard Manet" width="400" height="240"/></a>
 </div>
 
 <div>
 <h1> Piano Keys, Birthday song tutorial</h1>
-<a href="https://degrussecu1.github.io/Piano-Keys/" > <img src="https://i.imgur.com/jmRBUMY.png" title="Piano Keys, Birthday song tutorial" alt="Piano Keys, Birthday song tutorial" width="400" height="220"/></a>
+<a href="https://degrussecu1.github.io/Piano-Keys/" > <img src="https://i.imgur.com/jmRBUMY.png" title="Piano Keys, Birthday song tutorial" alt="Piano Keys, Birthday song tutorial" width="400" height="240"/></a>
 </div>
 
 <div>
 <h1> Recipe Finder API</h1>
-<a href="https://degrussecu1.github.io/Recipe-Book-Project/" > <img src="https://i.imgur.com/qtPVxCN.png" title="Recipe Finder API" alt="Recipe Finder API" width="400" height="220"/></a>
+<a href="https://degrussecu1.github.io/Recipe-Book-Project/" > <img src="https://i.imgur.com/qtPVxCN.png" title="Recipe Finder API" alt="Recipe Finder API" width="400" height="240"/></a>
 </div>
 
   
 <div>
 <h1>Story Generator </h1>
-<a href="https://degrussecu1.github.io/Form-project-/" > <img src="https://i.imgur.com/MAA60cV.png" title="Story Generator" alt="Story Generator" width="400" height="220"/></a>
+<a href="https://degrussecu1.github.io/Form-project-/" > <img src="https://i.imgur.com/MAA60cV.png" title="Story Generator" alt="Story Generator" width="400" height="240"/></a>
 </div>
   
 
