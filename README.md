@@ -36,9 +36,18 @@
 
 <div>
 <h1> Piano Keys, Birthday song tutorial</h1>
-<a href="https://degrussecu1.github.io/Piano-Keys/"  > <img src="https://i.imgur.com/jmRBUMY.png" title="Piano Keys, Birthday song tutorial" alt="Piano Keys, Birthday song tutorial" width="400" height="220"/></a>
+<a href="https://degrussecu1.github.io/Piano-Keys/" > <img src="https://i.imgur.com/jmRBUMY.png" title="Piano Keys, Birthday song tutorial" alt="Piano Keys, Birthday song tutorial" width="400" height="220"/></a>
 </div>
 
+<div>
+<h1> Recipe Finder API</h1>
+<a href="https://degrussecu1.github.io/Recipe-Book-Project/" > <img src="https://i.imgur.com/qtPVxCN.png" title="Recipe Finder API" alt="Recipe Finder API" width="400" height="220"/></a>
+</div>
 
+  
+<div>
+<h1>Story Generator </h1>
+<a href="https://degrussecu1.github.io/Form-project-/" > <img src="https://i.imgur.com/MAA60cV.png" title="Story Generator" alt="Story Generator" width="400" height="220"/></a>
+</div>
+  
 
- 
