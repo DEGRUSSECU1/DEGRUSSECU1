@@ -1,5 +1,5 @@
 
-<a href="https://imgur.com/pdLcpHt"><img src="https://i.imgur.com/pdLcpHt.png" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/pdLcpHt.png" title="source: imgur.com" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degrussecu1&label=Profile%20views&color=0e75b6&style=flat" alt="degrussecu1" /> </p>
 
 - 🌱Aspiring Front End Developer .
@@ -18,7 +18,7 @@
 
 <div align='center'>
 
-  <h2>My projects</div>
+  <h2 align='left'>My Projects</div>
   </div>
   <br/>
   
@@ -36,7 +36,7 @@
 
 <div>
 <h1> Piano Keys, Birthday song tutorial</h1>
-<a href="https://degrussecu1.github.io/Manet-Tribute-page/"  > <img src="https://i.imgur.com/jmRBUMY.png" title="Piano Keys, Birthday song tutorial" alt="Piano Keys, Birthday song tutorial" width="400" height="220"/></a>
+<a href="https://degrussecu1.github.io/Piano-Keys/"  > <img src="https://i.imgur.com/jmRBUMY.png" title="Piano Keys, Birthday song tutorial" alt="Piano Keys, Birthday song tutorial" width="400" height="220"/></a>
 </div>
 
 
