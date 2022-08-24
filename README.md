@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Diego Russo</h1>
-<h3 align="center">Software developer,part of the School of Code intensive bootcamp, self taught continuously learning from Codecademy" </h3>
 
+<a href="https://imgur.com/pdLcpHt"><img src="https://i.imgur.com/pdLcpHt.png" title="source: imgur.com" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degrussecu1&label=Profile%20views&color=0e75b6&style=flat" alt="degrussecu1" /> </p>
 
 - 🌱Aspiring Front End Developer .
-
+- 🌱Currently following Codecademy's Front-End Engineer Path.
+<h1 align="center">👋</h1>
+<h3 align="center">I am a Software Developer, I took part of the School of Code intensive bootcamp also self taught and continuously learning." </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/diego-russo-38989b133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diego-russo94" height="30" width="40" /></a>
@@ -15,5 +16,29 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=degrussecu1&show_icons=true&locale=en" alt="degrussecu1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=degrussecu1&" alt="degrussecu1" /></p>
+<div align='center'>
 
+  <h2>My projects</div>
+  </div>
+  <br/>
+  
+<div align='center'>
+
+<div>
+<h1> Reloved</h1>
+<a href="https://reloved.netlify.app/"> <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project School Of Code" width="400" height="220"/></a>
+</div>
+
+<div>
+<h1> Edouard Manet, Tribute Page</h1>
+<a href="https://degrussecu1.github.io/Manet-Tribute-page/" > <img src="https://i.imgur.com/TDBzOZ1.png" title="Edouard Manet"  alt="Edouard Manet" width="400" height="220"/></a>
+</div>
+
+<div>
+<h1> Piano Keys, Birthday song tutorial</h1>
+<a href="https://degrussecu1.github.io/Manet-Tribute-page/"  > <img src="https://i.imgur.com/jmRBUMY.png" title="Piano Keys, Birthday song tutorial" alt="Piano Keys, Birthday song tutorial" width="400" height="220"/></a>
+</div>
+
+
+
+ 
