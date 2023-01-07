@@ -30,10 +30,6 @@
 <div align='center'>
 
 <div>
-<h1> My portfolio-Website</h1>
-<a href="https://degrussecu1.github.io/Portfolio-Website/"><img src="https://i.imgur.com/Xb78Ufa.png" title="my-porfolio" alt="4 weeks project School Of Code" width="400" height="240"/></a>
-</div>
-<div>
 <h1> Reloved</h1>
 <a href="https://reloved.netlify.app/"> <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project School Of Code" width="400" height="240"/></a>
 </div>
