@@ -8,12 +8,12 @@
 <br></br>
 - 🌱Currently following Codecademy's Front-End Engineer Path.
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 👋</h1>
-<h3 align="center">Junior Software Developer.</h3>
+<h3 align="center">.</h3>
 <h3 align="center">School of Code bootcamp- Cohort 11.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/diego-russo-38989b133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diego-russo94" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/diego-russo94" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
